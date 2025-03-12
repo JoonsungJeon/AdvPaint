@@ -1,7 +1,7 @@
  
 # 🎨AdvPaint: Protecting Images From Inpainting Manipulation via Adversarial Attention Disruption
 This repository contains the official implementation of **AdvPaint**, a novel defensive framework that generates adversarial perturbations that effectively
-disrupt the adversary’s inpainting tasks. We will be presenting AdvPaint at _ICLR 2025_ in Singapore. Check out the project page and paper!
+disrupt the adversary’s inpainting tasks. We will be presenting AdvPaint at _ICLR 2025_ in Singapore. Check out the project page and the paper!
 
 ![test](https://github.com/JoonsungJeon/AdvPaint/blob/main/figs/test.png)
 **AdvPaint: Protecting Images From Inpainting Manipulation via Adversarial Attention Disruption**  
