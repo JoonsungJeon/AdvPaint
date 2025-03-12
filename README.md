@@ -4,7 +4,7 @@ This repository contains the official implementation of **AdvPaint**, a novel de
 disrupt the adversary’s inpainting tasks. We will be presenting AdvPaint at _ICLR 2025_ in Singapore. Check out the project page and the paper!
 
 ![test](https://github.com/JoonsungJeon/AdvPaint/blob/main/figs/test.png)
-**AdvPaint: Protecting Images From Inpainting Manipulation via Adversarial Attention Disruption**  
+**AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption**  
 _Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son*, and Sung-Eui Yoon*._  
 [Paper] | [Project](https://sgvr.kaist.ac.kr/~joonsung/AdvPaint/) | 
 
