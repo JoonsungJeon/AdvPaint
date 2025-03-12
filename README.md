@@ -3,6 +3,7 @@
 This repository contains the official implementation of **AdvPaint**, a novel defensive framework that generates adversarial perturbations that effectively
 disrupt the adversary’s inpainting tasks.
 
+![test](https://github.com/JoonsungJeon/AdvPaint/blob/main/figs/test.png)
 **AdvPaint: Protecting Images From Inpainting Manipulation via Adversarial Attention Disruption**  
 _Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son*, and Sung-Eui Yoon*._
 
