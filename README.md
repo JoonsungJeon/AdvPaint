@@ -55,8 +55,8 @@ python SD_inpaint.py \
 --clean_dir "./test/clean/bear.png" \
 --adv_dir "./test/adv/bear_AdvPaint_eps0.06_step0.03_iter250.png" \
 --output_dir "./test/inpaint" \
---mask_dir "./test/mask/bear_mask2_sbox.png" \
---prompt "A bear in a sunflower field."
+--mask_dir "./test/mask/bear_mask2_seg.png" \
+--prompt "A bear at a cherry blossom grove."
 ```
 - --clean_dir: dir to your clean input image
 - --adv_dir: dir to your protected image
