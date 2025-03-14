@@ -6,7 +6,7 @@ disrupt the adversary’s inpainting tasks. We will be presenting AdvPaint at _I
 ![test](https://github.com/JoonsungJeon/AdvPaint/blob/main/figs/test.png)
 **AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption**  
 _Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son*, and Sung-Eui Yoon*._  
-[Paper] | [Project](https://sgvr.kaist.ac.kr/~joonsung/AdvPaint/) | 
+[Paper](https://arxiv.org/abs/2503.10081) | [Project](https://sgvr.kaist.ac.kr/~joonsung/AdvPaint/)
 
 ## 🖌️Requirements
 All experiments are tested on Ubuntu (20.04 or 22.04) with a single RTX 3090.
