@@ -68,11 +68,11 @@ python SD_inpaint.py \
 If you find this code useful for your research, please consider citing our paper:
 ```
 @inproceedings{
-jeon2025advpaint,
-title={AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption},
+jeon2026MoFit,
+title={No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings},
 author={Joonsung Jeon and Woo Jae Kim and Suhyeon Ha and Sooel Son and Sung-eui Yoon},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=m73tETvFkX}
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=KUXLrSXYPv}
 }
 ```
